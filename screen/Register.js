@@ -5,8 +5,7 @@ import {
   Text,
   View,
   TouchableOpacity,
-  Image,
-  KeyboardAvoidingView,
+
   Picker
 } from "react-native";
 import {
